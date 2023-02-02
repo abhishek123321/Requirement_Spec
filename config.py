@@ -27,7 +27,7 @@ class DevelopmentConfig(Config):
     JIRAUSERNAME = 
     JIRAPASSWORD = 
     JIRAURL = 
-    JIRAPROXY = {'https':JIRAUSERNAME + '@internet.jlrint.com:83'}
+    JIRAPROXY = 
 
     ELASTICUSERNAME = 
     ELASTICPASSWORD = 
